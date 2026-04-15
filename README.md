@@ -94,10 +94,8 @@ L'application sera accessible sur `http://127.0.0.1:8000`
 
 | Rôle | Email | Mot de passe |
 |---|---|---|
-| Administrateur | admin@veloria.com | password |
-| Client | client@veloria.com | password |
-
-> ⚠️ Modifiez ces identifiants en production.
+| Administrateur | admin@hotel.com | admin1234 |
+| Client | client1@gmail.com | client123 |
 
 ---
 
