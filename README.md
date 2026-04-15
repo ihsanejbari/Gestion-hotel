@@ -41,7 +41,6 @@
 | MySQL | 8.x |
 | Bootstrap | 5.3 |
 | Font Awesome | 6.4 |
-| Google Fonts (Playfair Display) | — |
 
 ---
 
@@ -161,7 +160,7 @@ Pour déployer en production :
 
 ## 👨‍💻 Auteur
 
-**Ihsan Ejbari**  
+**Ihsane Jbari**  
 Projet académique — 2024/2025
 
 ---
