@@ -159,7 +159,7 @@ Pour déployer en production :
 ## 👨‍💻 Auteur
 
 **Ihsane Jbari**  
-Projet académique — 2024/2025
+Projet académique — 2025/2026
 
 ---
 
